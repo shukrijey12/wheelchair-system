@@ -294,20 +294,20 @@ class _AuthenticationScreenState extends State<AuthenticationScreen> {
     );
   }
 
-  Widget _buildSocialButton(IconData icon, Color color) {
-    return Container(
-      height: 60,
-      width: 60,
-      decoration: BoxDecoration(
-        color: Colors.white10,
-        borderRadius: BorderRadius.circular(15),
-        border: Border.all(color: Colors.white24),
-      ),
-      child: Icon(
-        icon,
-        color: color,
-        size: 32,
-      ),
-    );
-  }
-}
+//   Widget _buildSocialButton(IconData icon, Color color) {
+//     return Container(
+//       height: 60,
+//       width: 60,
+//       decoration: BoxDecoration(
+//         color: Colors.white10,
+//         borderRadius: BorderRadius.circular(15),
+//         border: Border.all(color: Colors.white24),
+//       ),
+//       child: Icon(
+//         icon,
+//         color: color,
+//         size: 32,
+//       ),
+//     );
+//   }
+ }
